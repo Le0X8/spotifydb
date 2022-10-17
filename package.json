@@ -1,0 +1,27 @@
+{
+  "name": "spotifydb",
+  "version": "1.0.0",
+  "description": "Fetches song/album/playlist/podcast data from Spotify without any API key data.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Le0X8/spotifydb.git"
+  },
+  "keywords": [
+    "Spotify",
+    "Spotify",
+    "data"
+  ],
+  "author": "Le0_X8",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Le0X8/spotifydb/issues"
+  },
+  "homepage": "https://github.com/Le0X8/spotifydb#readme",
+  "dependencies": {
+    "https": "^1.0.0"
+  }
+}
